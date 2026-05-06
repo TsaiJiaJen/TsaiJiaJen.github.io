@@ -13,8 +13,8 @@ sections:
       text: '本實驗室隸屬於大葉大學藥用植物與食品保健學系，致力於結合微生物發酵、天然物萃取與生物製程技術，開發應用於食品、保健與美妝產業之高值化產品。'
       # Show a call-to-action button under your biography? (optional)
       button:
-        text:'實驗室簡介'
-        url: 'research'
+        text: '實驗室簡介'
+        url: '#research'
       headings:
         about: ''
         education: ''
@@ -37,7 +37,8 @@ sections:
     content:
       title: '📚 My Research'
       subtitle: ''
-      text: |-本實驗室致力於結合微生物發酵、天然物萃取與生物製程技術，開發應用於食品、保健與美妝產業之高值化產品。
+      text: |-
+   本實驗室致力於結合微生物發酵、天然物萃取與生物製程技術，開發應用於食品、保健與美妝產業之高值化產品。
 🔬 研究方向 Research Areas
 🌿 天然物與生技原料開發
 芳香精油生物合成技術
