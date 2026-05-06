@@ -4,16 +4,19 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home 主頁
+  - name: Home 
     url: /
     weight: 10
+    - name: about 
+    url: /about/
+    weight: 11
   - name: Publications 
-    url: publications/
+    url: /publications/
     weight: 12
-  - name: Courses 課程
-    url: courses/
+  - name: Courses 
+    url: /courses/
     weight: 13
-  - name: Members 成員
+  - name: Members 
     url: /members/
     weight: 14
   - name: Contact 
