@@ -7,14 +7,14 @@ main:
   - name: Introduction 簡介
     url: /
     weight: 10
-  - name: Papers 文獻
-    url: /#papers
+  - name: News 最新消息
+    url: /#news
     weight: 11
   - name: Patent 專利
     url: Patent/
     weight: 12
-  - name: News 新聞
-    url: /#news 
+  - name: Papers 文獻
+    url: /#papers
     weight: 13
   - name: Courses 課程
     url: courses/
