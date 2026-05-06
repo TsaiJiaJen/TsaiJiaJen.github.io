@@ -4,7 +4,10 @@ env:
   NODE_VERSION: '22'
 
 on:
-  # Standalone trigger for PR validation
+  workflow_dispatch:
+  push:
+    branches:
+      - main
   pull_request:
     branches: ['main']
   # Reusable workflow trigger - called by deploy.yml
