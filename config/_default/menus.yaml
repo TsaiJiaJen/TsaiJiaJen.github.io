@@ -17,5 +17,5 @@ main:
     url: /members/
     weight: 14
   - name: Contact 
-    url: Contact/
+    url: /Contact/
     weight: 15
