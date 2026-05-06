@@ -1,7 +1,4 @@
-# Website name
 title: '張淑微 老師 lab'
-
-# Website URL
 baseURL: 'https://example.com/'
 
 ############################
@@ -10,6 +7,11 @@ baseURL: 'https://example.com/'
 
 defaultContentLanguage: zh
 hasCJKLanguage: true
+
+languages:
+  zh:
+    languageName: 中文
+    weight: 1
 
 ############################
 ## BASIC SETTINGS
@@ -39,5 +41,6 @@ outputs:
 
 taxonomies:
   tag: tags
+  publication_type: publication_types
   publication_type: publication_types
   _merge: deep
