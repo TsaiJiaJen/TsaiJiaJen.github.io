@@ -14,7 +14,7 @@ main:
     url: courses/
     weight: 13
   - name: Members 成員
-    url: /#members
+    url: /members/
     weight: 14
   - name: Contact 
     url: Contact/
