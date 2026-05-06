@@ -23,6 +23,14 @@ sections:
       avatar:
         size: medium
         shape: circle
+    - block: collection
+  content:
+    title: "📢 最新消息"
+    page_type: blog
+    count: 5
+    order: desc
+  design:
+    view: card
 
   - block: markdown
     content:
