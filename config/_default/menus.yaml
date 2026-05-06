@@ -7,9 +7,6 @@ main:
   - name: Home 主頁
     url: /
     weight: 10
-  - name: News 最新消息
-    url: /#news
-    weight: 11
   - name: Publications 
     url: publications/
     weight: 12
