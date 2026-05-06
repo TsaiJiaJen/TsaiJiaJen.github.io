@@ -22,3 +22,6 @@ main:
   - name: Contact 
     url: /Contact/
     weight: 15
+  - name: Photo 
+    url: /Photo/
+    weight: 16
