@@ -1,32 +1,10 @@
 ---
-title: "實驗室成員"
-type: widget_page
+title: "（未使用）Authors"
 ---
 
-## 👩‍🔬 在學成員
+⚠️ 此資料夾為系統預設，實驗室網站未使用。
 
-- block: collection
-  content:
-    title: ""
-    folders:
-      - authors
-    filters:
-      tags:
-        - current
-  design:
-    view: card
+請勿在此新增成員資料。
 
----
-
-## 🎓 已畢業成員
-
-- block: collection
-  content:
-    title: ""
-    folders:
-      - authors
-    filters:
-      tags:
-        - alumni
-  design:
-    view: card
+👉 成員請新增於：
+/content/members/
