@@ -53,52 +53,6 @@ sections:
     design:
       columns: '1'
 
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publications
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-
-  - block: collection
-    content:
-      title: Recent Publications
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
-    design:
-      view: citation
-
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - events
-    design:
-      view: card
-
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      page_type: blog
-      count: 10
-      order: desc
-      filters:
-        exclude_featured: false
-    design:
-      view: card
-      spacing:
-        padding: [0, 0, 0, 0]
-
   - block: markdown
     content:
       title: '📢 加入我們的實驗室'
