@@ -17,8 +17,7 @@ on:
         description: 'The ID of the uploaded artifact'
         value: ${{ jobs.build.outputs.artifact-id }}
   # Allow manual trigger for testing
-  workflow_dispatch:
-
+ 
 # Read-only permissions for security
 permissions:
   contents: read
