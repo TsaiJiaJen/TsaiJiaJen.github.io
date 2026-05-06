@@ -42,5 +42,3 @@ outputs:
 taxonomies:
   tag: tags
   publication_type: publication_types
-  publication_type: publication_types
-  _merge: deep
