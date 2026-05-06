@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: '張淑微老師實驗室'
-summary: ''
+summary: '酵素暨生技應用實驗室'
 date: 2022-10-24
 type: landing
 
