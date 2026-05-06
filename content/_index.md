@@ -39,20 +39,20 @@ sections:
       subtitle: ''
       text: |-
    本實驗室致力於結合微生物發酵、天然物萃取與生物製程技術，開發應用於食品、保健與美妝產業之高值化產品。
-🔬 研究方向 Research Areas
-🌿 天然物與生技原料開發
-芳香精油生物合成技術
-保健生技原料開發
-妝品生技原料開發
-海洋資源生物製程開發
-🧫 微生物與發酵技術
-微生物逆境發酵技術
-生質能源開發
-功能性代謝產物生產
-⚗️ 萃取與分析技術
-酵素輔助萃取技術
-同步萃取與合成技術
-食品與化妝品檢驗分析
+   研究方向 Research Areas
+  🌿 天然物與生技原料開發
+     芳香精油生物合成技術
+     保健生技原料開發
+     妝品生技原料開發
+     海洋資源生物製程開發
+  🧫 微生物與發酵技術
+     微生物逆境發酵技術
+     生質能源開發
+     功能性代謝產物生產
+  ⚗️ 萃取與分析技術
+     酵素輔助萃取技術
+     同步萃取與合成技術
+     食品與化妝品檢驗分析
         Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
 
         I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
