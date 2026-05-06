@@ -1,5 +1,32 @@
 ---
-title: "張淑微老師"
-role: "實驗室主持人"
-avatar: avatar.jpg
+title: "實驗室成員"
+type: widget_page
 ---
+
+## 👩‍🔬 在學成員
+
+- block: collection
+  content:
+    title: ""
+    folders:
+      - authors
+    filters:
+      tags:
+        - current
+  design:
+    view: card
+
+---
+
+## 🎓 已畢業成員
+
+- block: collection
+  content:
+    title: ""
+    folders:
+      - authors
+    filters:
+      tags:
+        - alumni
+  design:
+    view: card
