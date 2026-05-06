@@ -20,8 +20,8 @@ main:
     url: /members/
     weight: 14
   - name: Contact 
-    url: /Contact/
+    url: /contact/
     weight: 15
   - name: Photo 
-    url: /Photo/
+    url: /photo/
     weight: 16
