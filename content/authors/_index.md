@@ -1,9 +1,5 @@
 ---
-# To publish author profile pages, remove all the `build` and `cascade` settings below.
-build:
-  render: never
-cascade:
-  build:
-    render: never
-    list: always
+title: "張淑微老師"
+role: "實驗室主持人"
+avatar: avatar.jpg
 ---
