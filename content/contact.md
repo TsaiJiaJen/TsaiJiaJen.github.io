@@ -1,5 +1,6 @@
 ---
 title: "聯絡我們"
+reading_time: false
 ---
 
 ## 📍 實驗室地點
